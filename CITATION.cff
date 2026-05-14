@@ -24,8 +24,18 @@ authors:
 license: MIT
 license-url: "https://opensource.org/licenses/MIT"
 repository-code: "https://github.com/jhonsimon07/NELM-kinship-indonesia"
-doi: "10.5281/zenodo.20178918"
-url: "https://doi.org/10.5281/zenodo.20178918"
+doi: "10.5281/zenodo.20178917"
+url: "https://doi.org/10.5281/zenodo.20178917"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20178917"
+    description: "Concept DOI (always resolves to latest version)"
+  - type: doi
+    value: "10.5281/zenodo.20181242"
+    description: "v1.1.0 release (May 2026, with gender breakdown + LCA + diaspora-symmetric + endogeneity robustness)"
+  - type: doi
+    value: "10.5281/zenodo.20178918"
+    description: "v1.0 initial release (May 2026)"
 keywords:
   - new economics of labor migration
   - kinship structure

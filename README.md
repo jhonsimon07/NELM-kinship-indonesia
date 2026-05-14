@@ -1,6 +1,6 @@
 # Replication Package — Configuring Translocal Households
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20178918.svg)](https://doi.org/10.5281/zenodo.20178918)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20178917.svg)](https://doi.org/10.5281/zenodo.20178917)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 
@@ -180,10 +180,15 @@ For the replication package itself:
   title        = {Replication package for Configuring Translocal Households},
   year         = 2026,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.20178918},
-  url          = {https://doi.org/10.5281/zenodo.20178918}
+  version      = {v1.1.0},
+  doi          = {10.5281/zenodo.20178917},
+  url          = {https://doi.org/10.5281/zenodo.20178917}
 }
 ```
+
+The DOI above is the **concept DOI** which always resolves to the latest version. Specific version DOIs:
+- v1.1.0 (May 2026): https://doi.org/10.5281/zenodo.20181242
+- v1.0 (May 2026): https://doi.org/10.5281/zenodo.20178918
 
 ---
 
