@@ -106,7 +106,7 @@ The package includes derived datasets (in `data/processed/`) that allow replicat
 
 ```bash
 # Clone the repository
-git clone https://github.com/[user]/NELM-kinship-indonesia.git
+git clone https://github.com/jhonsimon07/NELM-kinship-indonesia.git
 cd NELM-kinship-indonesia
 
 # Create Python environment
