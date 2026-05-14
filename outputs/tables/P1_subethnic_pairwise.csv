@@ -1,0 +1,4 @@
+group1,group2,dim,mean1,mean2,diff,p_value,sig
+Diaspora-Christian-Batak,Diaspora-Muslim-Batak,nelm_d1_deployment,0.1434375627289013,0.17249186783085088,-0.02905430510194959,0.5467378533682616,
+Diaspora-Christian-Batak,Diaspora-Muslim-Batak,nelm_d2_remittance,3.1803385200250474,3.5494039790873315,-0.36906545906228416,0.40110154637931705,
+Diaspora-Christian-Batak,Diaspora-Muslim-Batak,nelm_d3_extended_ratio,0.2564984815934274,0.22171675221922899,0.03478172937419843,0.08009210585116432,

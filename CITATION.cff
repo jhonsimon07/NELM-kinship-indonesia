@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+title: "Replication package for Configuring Translocal Households: Kinship Structure and the New Economics of Labor Migration in Bataknese versus Minangkabau Indonesia"
+message: "If you use this software or data, please cite both the paper and this replication package as below."
+type: software
+authors:
+  - family-names: Simon
+    given-names: Jhon
+    affiliation: "Faculty of Social and Political Sciences, Universitas Dharmawangsa, Medan, Indonesia"
+    email: jhon.simon@dharmawangsa.ac.id
+  - family-names: Ismail
+    given-names: Isdawati
+    affiliation: "Polytechnic Port Dickson Branch, Negeri Sembilan, Malaysia"
+  - family-names: Tahir
+    given-names: Rahman
+    affiliation: "Faculty of Social and Political Sciences, Universitas Dharmawangsa, Medan, Indonesia"
+  - family-names: Saragih
+    given-names: Siswati
+    affiliation: "Faculty of Social and Political Sciences, Universitas Sumatera Utara, Medan, Indonesia"
+  - family-names: Angelia
+    given-names: Nina
+    affiliation: "Faculty of Social and Political Sciences, Universitas Medan Area, Medan, Indonesia"
+license: MIT
+license-url: "https://opensource.org/licenses/MIT"
+repository-code: "https://github.com/PLACEHOLDER/PJ2-paper1-replication"
+keywords:
+  - new economics of labor migration
+  - kinship structure
+  - ethnic disaggregation
+  - Indonesia
+  - IFLS
+  - household typology
+abstract: "Replication code and derived datasets for the paper testing whether matrilineal Minangkabau and patrilineal Bataknese households in Indonesia configure translocal migration into distinct strategy types, using the Indonesian Family Life Survey wave 5 (IFLS-5, 2014; n = 6,936 ethnic-modal households)."
+preferred-citation:
+  type: article
+  title: "Configuring Translocal Households: Kinship Structure and the New Economics of Labor Migration in Bataknese versus Minangkabau Indonesia"
+  authors:
+    - family-names: Simon
+      given-names: Jhon
+    - family-names: Ismail
+      given-names: Isdawati
+    - family-names: Tahir
+      given-names: Rahman
+    - family-names: Saragih
+      given-names: Siswati
+    - family-names: Angelia
+      given-names: Nina
+  journal: "Journal of Ethnic and Migration Studies"
+  year: 2026
+  notes: "Under review"

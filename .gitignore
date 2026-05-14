@@ -1,0 +1,33 @@
+# Raw IFLS-5 data (license-restricted, do NOT commit)
+data/raw/
+*.dta
+*.sav
+*.sps
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local intermediate files
+*.log
+*.tmp
+*~
+
+# Large processed individual-level data (privacy)
+data/processed/individual_*.csv

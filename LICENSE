@@ -1,0 +1,64 @@
+DUAL LICENSE: Code (MIT) + Derived Data & Documentation (CC BY 4.0)
+
+==============================================================================
+PART 1: MIT License for code (everything in scripts/)
+==============================================================================
+
+MIT License
+
+Copyright (c) 2026 Jhon Simon, Isdawati Ismail, Rahman Tahir, Siswati Saragih,
+                  Nina Angelia
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+==============================================================================
+PART 2: CC BY 4.0 for derived data + documentation
+==============================================================================
+
+The derived datasets in data/processed/, the output tables in outputs/tables/,
+the figures in outputs/figures/, and the documentation files in docs/ and
+README.md are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+You are free to:
+  - Share: copy and redistribute the material in any medium or format
+  - Adapt: remix, transform, and build upon the material for any purpose,
+    even commercially
+
+Under the following terms:
+  - Attribution: You must give appropriate credit, provide a link to the
+    license, and indicate if changes were made.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+==============================================================================
+PART 3: IFLS-5 raw data (NOT included in this package)
+==============================================================================
+
+The Indonesian Family Life Survey wave 5 (IFLS-5) raw microdata files are
+the property of RAND Corporation and are licensed under RAND's separate
+data-use agreement (https://www.rand.org/well-being/social-and-behavioral-
+policy/data/FLS/IFLS.html). This replication package does NOT redistribute
+IFLS-5 raw data. Users must register independently with RAND and accept the
+data-use agreement to obtain raw IFLS-5 files.
+
+This package's derived datasets (in data/processed/) contain aggregated and
+transformed values; per RAND's data-use policy, sharing derived datasets
+that do not allow reconstruction of individual records is permitted for
+non-commercial research replication.
