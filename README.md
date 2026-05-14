@@ -1,6 +1,6 @@
 # Replication Package — Configuring Translocal Households
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.PLACEHOLDER.svg)](https://doi.org/10.5281/zenodo.PLACEHOLDER)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20178918.svg)](https://doi.org/10.5281/zenodo.20178918)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 
@@ -177,8 +177,8 @@ For the replication package itself:
   title        = {Replication package for Configuring Translocal Households},
   year         = 2026,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.PLACEHOLDER},
-  url          = {https://doi.org/10.5281/zenodo.PLACEHOLDER}
+  doi          = {10.5281/zenodo.20178918},
+  url          = {https://doi.org/10.5281/zenodo.20178918}
 }
 ```
 
