@@ -4,9 +4,11 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 
+**Version 1.1 (May 2026)** -- adds gender-disaggregated migration deployment breakdown (Table 1b) and baseline ethnic-disaggregated descriptives (Table 1a). Manuscript revised for JEMS submission.
+
 Replication materials for the paper:
 
-> **Simon, J., Ismail, I., Tahir, R., Saragih, S., & Angelia, N. (2026).** Configuring Translocal Households: Kinship Structure and the New Economics of Labor Migration in Bataknese versus Minangkabau Indonesia. *Journal of Ethnic and Migration Studies* (under review).
+> **Simon, J., Ismail, I., Tahir, R., Saragih, S., & Angelia, N. (2026).** Configuring Translocal Households: Kinship Structure and the New Economics of Labour Migration in Bataknese versus Minangkabau Indonesia. *Journal of Ethnic and Migration Studies* (under review).
 
 ---
 
@@ -16,9 +18,10 @@ This repository contains the analysis pipeline, derived datasets, output tables,
 
 ### Key Results
 - Sample: 6,936 ethnic-modal households (Java 5,679; Batak 583; Minang 674) drawn from 14,451 households across 13 Indonesian provinces (excluding Aceh).
-- Five household-strategy clusters identified via k-means (silhouette 0.628 at k = 5; Ward agreement ARI = 0.68).
+- Five household-strategy clusters identified via k-means (silhouette 0.628 at k = 5; Ward agreement ARI = 0.68; Latent Class Analysis Cohen's kappa approximately 0.74).
 - Ethnicity remains a significant predictor of cluster membership after controlling for HH-head age, sex, education, urban residence, household size, log per-capita expenditure, and province (likelihood-ratio chi-squared = 34.15, df = 8, p = 3.8 x 10⁻⁵; pseudo R² = 0.30).
-- Findings robust across two clustering methods, three alternative k values, eight subsample sensitivity tests, and 200-replicate household-level bootstrap CIs.
+- Gender-disaggregated migration deployment shows highest male share among Minang out-migrated adults (58.1 per cent versus Batak 51.2 per cent and Java 54.3 per cent), directionally consistent with selective male merantau.
+- Findings robust across two clustering methods, Latent Class Analysis, three alternative k values, six of eight converging subsample sensitivity tests, 200-replicate household-level bootstrap CIs, a diaspora-symmetric robustness test, and a HH-head-only endogeneity check.
 - Sub-ethnic Bataknese decomposition (Christian-Muslim) shows no significant within-Batak differences, supporting the interpretation that kinship structure (not religion) drives the contrast.
 
 ---

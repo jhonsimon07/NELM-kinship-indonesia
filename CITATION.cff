@@ -1,5 +1,7 @@
 cff-version: 1.2.0
-title: "Replication package for Configuring Translocal Households: Kinship Structure and the New Economics of Labor Migration in Bataknese versus Minangkabau Indonesia"
+title: "Replication package for Configuring Translocal Households: Kinship Structure and the New Economics of Labour Migration in Bataknese versus Minangkabau Indonesia"
+version: "1.1.0"
+date-released: "2026-05-14"
 message: "If you use this software or data, please cite both the paper and this replication package as below."
 type: software
 authors:
@@ -31,10 +33,10 @@ keywords:
   - Indonesia
   - IFLS
   - household typology
-abstract: "Replication code and derived datasets for the paper testing whether matrilineal Minangkabau and patrilineal Bataknese households in Indonesia configure translocal migration into distinct strategy types, using the Indonesian Family Life Survey wave 5 (IFLS-5, 2014; n = 6,936 ethnic-modal households)."
+abstract: "Replication code and derived datasets for the paper testing whether matrilineal Minangkabau and patrilineal Bataknese households in Indonesia configure translocal migration into distinct strategy types, using the Indonesian Family Life Survey wave 5 (IFLS-5, 2014; n = 6,936 ethnic-modal households). Version 1.1 adds gender-disaggregated migration deployment breakdown (Table 1b) and baseline ethnic-disaggregated descriptives (Table 1a)."
 preferred-citation:
   type: article
-  title: "Configuring Translocal Households: Kinship Structure and the New Economics of Labor Migration in Bataknese versus Minangkabau Indonesia"
+  title: "Configuring Translocal Households: Kinship Structure and the New Economics of Labour Migration in Bataknese versus Minangkabau Indonesia"
   authors:
     - family-names: Simon
       given-names: Jhon
